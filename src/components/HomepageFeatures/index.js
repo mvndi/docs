@@ -4,7 +4,6 @@ import styles from './styles.module.css';
 
 const FeatureList = [{
     title: 'Changing Vanilla',
-    Svg: require('@site/static/img/logo-old.svg').default,
     description: (
       <>
         Mvndicraft does not require any mods for you to play,
@@ -14,7 +13,6 @@ const FeatureList = [{
   },
   {
     title: 'CVMING SQQN',
-    Svg: require('@site/static/img/logo-old.svg').default,
     description: (
       <>
         Stay tuned for updates relating the official release 
@@ -24,7 +22,6 @@ const FeatureList = [{
   },
   {
     title: 'Towny on Eurasia',
-    Svg: require('@site/static/img/logo-old.svg').default,
     description: (
       <>
         Make your settlement anywhere on the Middle East,
@@ -36,7 +33,7 @@ const FeatureList = [{
 
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
