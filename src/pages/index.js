@@ -10,7 +10,7 @@ function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className="GUH CLASSNAME>
-        <h1 className="hero__title">"Mvndicraft"</h1>
+        <h1>"Mvndicraft"</h1>
         <p className="hero__subtitle">"Lords At War"</p>
         <div className="BUTTONS">
           <Link
