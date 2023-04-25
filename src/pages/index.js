@@ -10,7 +10,6 @@ function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className="GUH CLASSNAME>
-      <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className="BUTTONS">
@@ -20,7 +19,6 @@ function HomepageHeader() {
             Read The Docs
           </Link>
         </div>
-      </div>
     </header>
   );
 }
