@@ -9,9 +9,9 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className="GUH CLASSNAME>
-        <h1>"Mvndicraft"</h1>
-        <p className="hero__subtitle">"Lords At War"</p>
+    <header className="GUH CLASSNAME">
+        <h1>Mvndicraft</h1>
+        <p className="hero__subtitle">Lords At War</p>
         <div className="BUTTONS">
           <Link
             className="button button--secondary button--lg"
