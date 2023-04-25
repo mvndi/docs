@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Mvndicraft',
-  tagline: 'The best medieval experience in Minecraft',
+  tagline: 'The best medieval experience in Minecraft, CQMING SQQN',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
