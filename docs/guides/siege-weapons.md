@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-## Siege Weapons
+# Siege Weapons
 All the siege weapons available on Mvndicraft are explained in the video below:
 ## https://youtu.be/FpZiwwsM7b8
 ### Mvndicraft includes the following siege weapons:
