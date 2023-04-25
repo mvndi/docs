@@ -18,11 +18,6 @@ function HomepageHeader() {
             to="/docs/welcome">
             Read The Docs
           </Link>
-          <Link
-            className="button button--secondary button--lg"
-            href="https://discord.gg/2BP6h8Ssta">
-            Join our Discord
-          </Link>
         </div>
       </div>
     </header>
