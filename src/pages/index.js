@@ -18,7 +18,6 @@ function HomepageHeader() {
             to="/docs/welcome">
             Read The Docs
           </Link>
-          <br>
           <Link
             className="button button--secondary button--lg"
             href="https://discord.gg/2BP6h8Ssta">
