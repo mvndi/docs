@@ -29,6 +29,9 @@ War book prices per war type:
  - CIVIL WAR: 7
  - TOWN WAR: 3
  - NATION WAR: 10
+
+## War Schedules
+A war can only be started or participated from `11:00 EST / 15:00 GMT` to `17:00 EST / 21:00 GMT`.
  
 ## Picking A Side (CIVIL WAR)
 A message will appear prompting you to choose a side in the civil war.
