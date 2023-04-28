@@ -68,3 +68,7 @@ When a nation wins a war against you by capturing your town, you will be conquer
 ## End Of War
 After wartime has ended, or all cities / the capital has surrendered (Nation / Civil War), a winner will be decided. 
 The winners are the ones with most points / the ones that haven't surrendered (in case anyone has) / the ones that have captured the capital (Nation War). The winners will get to keep the towns they have conquered the homeblocks of during the War (Nation War), will absorb the town (Town War), or will become the new capital of the nation (Civil War).
+
+## Griefing
+When a town is conquered/fallen during a war, the winners will have permission to <br/>
+open chests and other switches in the town for `15 Minutes`.
