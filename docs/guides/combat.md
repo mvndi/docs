@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 # Combat Guide
-Mvndicraft's combat system focuses around 3 main features:
+Mvndicraft's combat system focuses around 4 main features:
 - Crafting
 - Stamina
 - Weight
