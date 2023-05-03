@@ -1,0 +1,11 @@
+---
+sidebar_position: 1
+---
+
+# Example Wiki
+To submit a history page, join our Discord Server, make a ticket, and provide a markdown file which is nice and formatted into paragraphs. <br/>
+To learn how to use Markdown (.md files) , see this link: https://www.markdownguide.org/basic-syntax/ <br/>
+You can accord yourself credit in any markdown page you write if you'd like! <br/>
+
+
+
