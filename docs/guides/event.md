@@ -5,7 +5,7 @@ sidebar-position: 8
 # Siege Event
 
 Mvndicraft will be hosting a siege event on the <br/>
-DAYth of MONTH at XX:XX EST / XX:XX GMT. Read below for more information. <br/>
+21st of MAY at 13:00 EST / 17:00 GMT. Read below for more information. <br/>
 
 # Information
 
