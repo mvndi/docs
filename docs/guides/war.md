@@ -11,7 +11,7 @@ Mvndicraft uses the EventWar plugin for war and diplomatics in Towny.
 Eventwar wars focus on capturing towns by taking down the HP of border chunks.
 There are currently only 3 war types available on Mvndicraft:
  
-- Nation VS Nation Wars (All towns in Nation1 fight against all the towns in Nation2)
+- Alliance VS Alliance Wars (Two Nations go to war with eachother and get support from their allies, who cannot get conquered)
 - Town VS Town Wars (Two towns go to war with eachother, no other town can get involved)
 - Civil Wars (A town mayor decides that they want ownership of the nation they are currently apart of)
  
@@ -26,9 +26,9 @@ There are currently only 3 war types available on Mvndicraft:
 In order to start a war, you need some war tokens. War tokens are handed out to each non-neutral town every 24h.
 Once you have enough war tokens, you can use the redeem command to get the war book which you will need for your upcoming war.
 War book prices per war type:
- - CIVIL WAR: 7
- - TOWN WAR: 3
- - NATION WAR: 10
+ - CIVIL WAR: 7 tokens
+ - TOWN WAR: 3 tokens
+ - ALLIANCE WAR: 10 tokens
 
 ## War Schedules
 A war can only be started or participated from `11:00 EST / 15:00 GMT` to `17:00 EST / 21:00 GMT`.
@@ -40,7 +40,7 @@ A message will appear prompting you to choose a side in the civil war.
 Each war type lasts a different amount of time. 
  - CIVIL WAR: 2h
  - TOWN WAR: 1.5h
- - NATION WAR: 2.5h
+ - ALLIANCE WAR: 2.5h
  
 ## Capturing Chunks
 If you are apart of the war, and not in neutral town, you are able to capture chunks.
@@ -52,13 +52,13 @@ Each chunk has an HP of 55, and homeblocks have and HP of 150. Damage is dealt e
 While doing certain activities, you get points for the war. If the war does not end in the maximum given time, the points will define the winner of the war. You will get points for: 
  - KILLING AN ENEMY: 1p
  - CAPTURING A CHUNK: 10p
- - CAPTURING A TOWN (NATION/CIVIL WAR): 20p
+ - CAPTURING A TOWN (ALLIANCE/CIVIL WAR): 20p
 
 ## Surrendering (OPTIONAL)
 To surrender, type `/surrender < WHITE_PEACE | MONEY | TOWNS | MONEY_AND_TOWNS >`.
 If you think you can peace talk with your enemy, try using the surrender command. Surrendering is useful if you or your enemy want to end the war faster but get something out of it, such as:
  - MONEY: Surrender  to your enemy and pay a price to them.
- - TOWNS (CIVIL WAR / NATION WAR): Surrender towns to your enemy and end the war faster.
+ - TOWNS (CIVIL WAR / ALLIANCE WAR): Surrender towns to your enemy and end the war faster.
  - BOTH: Pay money and hand over towns to your enemy to end the war faster
  - WHITE PEACE: No one gets anything, the war just ends.
  
