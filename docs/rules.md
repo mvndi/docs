@@ -115,33 +115,33 @@ If any of these are discovered by admins the changes shall be reverted.
 ---------------
 **Ban Evasion**
 ---------------
-**1. Using alts is not allowed under any circumstance and will lead to a permanent ban of all accounts owned by the perpetrator.**
+**5.0 Using alts is not allowed under any circumstance and will lead to a permanent ban of all accounts owned by the perpetrator.**
 
 ------------
 **Exploits**
 ------------
-**1. Any Glitch or Bug should be reported. Abusing these bugs intentionally is punishable**
+**6.0 Any Glitch or Bug should be reported. Abusing these bugs intentionally is punishable**
 
-**2. AFK bypassing is not allowed**
+**6.1 AFK bypassing is not allowed**
 
-**3. Abusing bugs, lag, and other unintended features such as block glitching and dupes is not allowed**
+**6.2 Abusing bugs, lag, and other unintended features such as block glitching and dupes is not allowed**
 
 ---------
 **Towny**
 ---------
-**1. No snake claiming**
+**7.0 No snake claiming**
 
 _- Claims must be sensible and cannot extend as lines_
 
-**2. Blocking other towns from expanding using your own claims will result in your claims being deleted**
+**7.1 Blocking other towns from expanding using your own claims will result in your claims being deleted**
 
-**3. Insiding is not allowed**
+**7.2 Insiding is not allowed**
 
 ---------
-**Roleplay**
+**Larp**
 ---------
 
-**1. Nation names**
+**8.0 Nation names**
 
 _- Fantasy/alternate history nations are allowed if they make sense in a medieval context_
 
