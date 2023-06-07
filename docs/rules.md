@@ -34,7 +34,7 @@ sidebar_position: 2
 ------------
 **Cheating**
 ------------
-**1. Any hacks that provide an advantage over other players are not allowed**
+**1.0 Any hacks that provide an advantage over other players are not allowed**
 
 _- This includes player minimaps and XRay._
 
@@ -42,48 +42,36 @@ _- This includes player minimaps and XRay._
 --------
 **Chat**
 --------
-**1. You may not speak in languages besides English in public chats**
+**2.0 You may not speak in languages besides English in public chats**
 
-**2. Harassment is punishable**
+**2.1 Constant Harassment is punishable**
 
-**3. Blasphemy towards any religion is forbidden**
+**2.2 Blasphemy towards any religion is forbidden**
 
-**4. Spamming is prohibited**
+**2.3 Spamming is prohibited**
 
-**5. Impersonating staff is prohibited**
+**2.4 Impersonating staff is prohibited**
 
 -------
 **War**
 -------
-**1. Fighting in a siege without being part of it is not allowed.**
+**3.0 Scamming items, ducats, towns, etc during treaties IS allowed. However, you can have an Administrator be the middle man in the treaty**
 
 
-**2. Any treaty agreed on by both belligerents concluding a war will be enforced by server admins.**
+**3.1 Usage of lava buckets during combat is prohibited**
 
 
-**3. Usage of lava buckets during combat is prohibited**
+**3.2 No temporary PvP towns/nations.**
 
 
-**4. No temporary PvP factions.**
+**3.3 Griefing during war is not allowed. Breaking through walls, exploding them, or looting chests is not considered griefing.**
 
 
-**5. Griefing, including lava casts, excessive destruction, and other such behaviors, will get you and/or your faction banned.**
+**3.4 Usage of instant death "ganks" / traps is not allowed. Ganks are allowed as long as the victim does not die from fall damage to them.**
 
+_- This includes, but is not limited to: spleefing, sign traps, fallers and sand traps_
 
-**6. Usage of traps and similar contraptions is not allowed**
-
-_- This includes spleefing, sign traps, fallers, sand traps, and ganks_
-
-_- Blocking players who got in your claims by closing doors and exits **is allowed**_
-
-
-**7. Siege machines can only be used to breach walls during a siege. You cannot use them to destroy cities at any point. They cannot be used outside of sieges.**
-
-
-**8. Fortifications cannot be built within a 16 block radius of the siege banner**
-
-
-**9. If you are caught breaking these rules you will be banned until the war is over.**
+_- Blocking players who got in your claims by closing doors and exits **IS ALLOWED**_
 
 ------------
 **Building**
@@ -91,36 +79,36 @@ _- Blocking players who got in your claims by closing doors and exits **is allow
 
 If any of these are discovered by admins the changes shall be reverted.
 
-**1. No lava moats**
+**4.0 No lava moats**
 
 
-**2. No filling walls with water or lava**
+**4.1 No filling walls with water, lava, or obsidian.**
 
 
-**3. Ugly cube/faction towns are not allowed and will be deleted.**
+**4.2 Ugly cube/faction towns are not allowed and will be deleted.**
 
 
-**4. Landscape griefing is not allowed.**
+**4.3 Landscape griefing is not allowed.**
 
 
-**5. Sky/ocean bases are not allowed.**
+**4.4 Sky/ocean bases are not allowed.**
 
 
-**6. You cannot tower over a wall to get into a town at any time**
+**4.5 You cannot tower over a wall to get into a town at any time**
 
 
-**7. Ice roads are illegal and will be removed by admins for the sake of realism.**
+**4.6 Ice roads are illegal and will be removed by admins for the sake of realism.**
 
 
-**8. Doors made using the Doors plugin must be sensible and cannot be used to set up traps or other unintended contraptions**
+**4.7 Doors made using the Doors plugin must be sensible and cannot be used to set up traps or other unintended contraptions**
 
 
-**9. Automated farms are not allowed**
+**4.8 Automated farms are not allowed**
 
 
-**10. Swastikas and Communist symbols cannot be built anywhere**
+**4.9 Swastikas and Communist symbols cannot be built anywhere**
 
-**11. Underground transportation tunnels are not allowed.**
+**4.10 Underground transportation tunnels are not allowed. (tunnel length limit: 300 blocks)**
 
 
 
