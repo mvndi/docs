@@ -138,12 +138,18 @@ _- Claims must be sensible and cannot extend as lines_
 **7.2 Insiding is not allowed**
 
 ---------
-**Larp**
+**Nations**
 ---------
 
-**8.0 Nation names**
+**8.0 Fantasy/alternate history nations are allowed if they make sense in a medieval context**
 
-_- Fantasy/alternate history nations are allowed if they make sense in a medieval context_
+**8.1 If you would like to have your nation advertised in the Discord server, you must meet these criterias:**
+ - Have a Discord server with atleast 5 active members.
+ - The Discord server must be dedicated to Mvndicraft.
+ - You cannot advertise other Minecraft servers in that server.
+ - You must atleast own a town ingame before submitting an ad. (NOT ENFORCED UNTIL 2 WEEKS AFTER RELEASE)
+
+
 
             
 
