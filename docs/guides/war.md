@@ -11,7 +11,7 @@ Mvndicraft uses the EventWar plugin for war and diplomatics in Towny.
 Eventwar wars focus on capturing towns by taking down the HP of border chunks.
 There are currently only 3 war types available on Mvndicraft:
  
-- Nation VS Nation Wars (All towns in Nation1 fight against all the towns in Nation2)
+- Nation VS Nation Wars (All towns in Nation1 fight against all the towns in Nation2, no other nation can get involved)
 - Town VS Town Wars (Two towns go to war with eachother, no other town can get involved)
 - Civil Wars (A town mayor decides that they want ownership of the nation they are currently apart of)
  
