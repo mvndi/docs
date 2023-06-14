@@ -105,10 +105,11 @@ If any of these are discovered by admins the changes shall be reverted.
 
 **4.8 Automated farms are not allowed**
 
-
 **4.9 Swastikas and Communist symbols cannot be built anywhere**
 
 **4.10 Underground transportation tunnels are not allowed. (tunnel length limit: 300 blocks)**
+
+**4.11** Water moats or simply any moat built around a base for the purpose of defending from attackers must not be wider than a chunk (16 blocks)**
 
 
 
