@@ -31,7 +31,10 @@ War book prices per war type:
  - NATION WAR: 10
 
 ## War Schedules
-A war can only be started or participated from `11:00 EST / 15:00 GMT` to `17:00 EST / 21:00 GMT`.
+Wars have a 1 day warmup time, meaning that if you declare a war today, it will officially start tommorrow at the same time. <br/>
+This way, you have time to prepare for the War if you are offline, and to call for your allies. <br/>
+Wars can be declared every Thursday, Friday and Saturday between `11:00 EST` and `17:00 EST`. <br/>
+There are no online party/member requirements for a war to be declared. <br/>
  
 ## Picking A Side (CIVIL WAR)
 A message will appear prompting you to choose a side in the civil war.
