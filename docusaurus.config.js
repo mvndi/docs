@@ -42,8 +42,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-        //  editUrl:
-        //    'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //  editUrl:
+          //    'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -96,19 +96,23 @@ const config = {
                 href: 'https://map.mvndicraft.net/',
               },
               {
+                label: 'Store',
+                href: 'https://store.mvndicraft.net/',
+              },
+              {
                 label: 'Rules',
-				to: '/docs/rules'
+                to: '/docs/rules'
               },
             ],
           },
           {
             title: 'More',
             items: [
-			  {
+              {
                 label: 'PlanetMinecraft',
                 href: 'https://www.planetminecraft.com/member/mvndicraft_medieval/',
               },
-			  {
+              {
                 label: 'Reddit',
                 href: 'https://reddit.com/r/MvndiMC/',
               }
