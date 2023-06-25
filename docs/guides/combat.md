@@ -31,6 +31,7 @@ protects you from any attack type EQUALLY. <br/>
 Each armor and weapon piece has a specific weight. The more armor you wear and the more weapons <br/>
 you carry, the slower you walk on foot. Weight can be read on the equipment piece's lore text, just like <br/>
 every information about the equipment. <br/>
+If you weigh too much you can't swim.
 
 # Stamina
 
