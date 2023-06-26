@@ -136,7 +136,7 @@ _- Claims must be sensible and cannot extend as lines_
 
 **7.1 Blocking other towns from expanding using your own claims will result in your claims being deleted**
 
-**7.2 Insiding is not allowed**
+**7.2 Joining a town just to spawn kill residents is forbidden.**
 
 ---------
 **Nations**
