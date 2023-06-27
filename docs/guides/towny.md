@@ -11,8 +11,9 @@ Read These.
 
 # Towny Prices
 
-- `Town Cost` - 1000 Ducats
-- `Nation Cost` - 3000 Ducats
-- `Normal Town Daily Upkeep` - 200 Ducats
-- `Nationless Town Upkeep` - 400 Ducats
-- `Max Daily Conquered Tax` - 500 Ducats (/n set conqueredtax {1-500})
+- `Town Cost` - 9999 Ducats
+- `Nation Cost` - 2999 Ducats
+- `Normal Town Daily Upkeep` - 3 * CHUNKS-IN-TOWN Ducats
+- `Nationless Town Upkeep` - 6 * CHUNKS-IN-TOWN Ducats
+- `Nation Upkeep` - 250 Ducats
+- `Max Daily Conquered Tax` - 500 Ducats (/n set conqueredtax {1-1000})
