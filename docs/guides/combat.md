@@ -49,3 +49,8 @@ The less weight that is on you, the faster you regenerate and harder you deplete
 
 Each equipment piece has a custom recipe. Use `/recipes` ingame to view all the recipes, <br/>
 and click on the category your weapon falls into. <br/>
+
+# Damage Formula
+
+It's like Dark Souls
+![damage_formula](https://github.com/darthpeti/mvndi-docs/assets/26354814/ff96c7d8-e70a-4692-ba41-eb39d6d9957a)
