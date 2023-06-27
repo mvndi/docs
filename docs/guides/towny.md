@@ -11,7 +11,7 @@ Read These.
 
 # Towny Prices
 
-- `Town Cost` - 9999 Ducats
+- `Town Cost` - 999 Ducats
 - `Nation Cost` - 2999 Ducats
 - `Normal Town Daily Upkeep` - 3 * CHUNKS-IN-TOWN Ducats
 - `Nationless Town Upkeep` - 6 * CHUNKS-IN-TOWN Ducats
