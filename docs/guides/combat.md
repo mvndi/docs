@@ -52,5 +52,6 @@ and click on the category your weapon falls into. <br/>
 
 # Damage Formula
 
-It's like Dark Souls
+It's like Dark Souls <br/>
+
 ![damage_formula](https://github.com/darthpeti/mvndi-docs/assets/26354814/ff96c7d8-e70a-4692-ba41-eb39d6d9957a)
