@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Getting Started
 
-- Upon joining the server (using a 1.19.4 client), the resource pack will be loaded automatically. If it does not, go back to the Multiplayer tab, edit the Mvndicraft server and set the `Server resource pack` to Enabled.
+- Upon joining the server (using a 1.20.1 client), the resource pack will be loaded automatically. If it does not, go back to the Multiplayer tab, edit the Mvndicraft server and set the `Server resource pack` to Enabled.
 
 - You can locate yourself on the live map through `/map`. After connecting your Minecraft account to the map, you will see your player icon. You can use `/rtp` while in the spawn (aether) to teleport to a random location.
 
