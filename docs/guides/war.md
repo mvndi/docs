@@ -15,6 +15,7 @@ There are currently only 3 war types available on Mvndicraft:
 - Nation VS Nation Wars (All towns in Nation1 fight against all the towns in Nation2, no other nation can get involved)
 - Town VS Town Wars (Two towns go to war with eachother, no other town can get involved)
 - Civil Wars (A town mayor decides that they want ownership of the nation they are currently apart of)
+- Independence Wars (An occupied town fights for its freedom against a Nation)
 
 ## Commands
 
@@ -32,6 +33,7 @@ War book prices per war type:
 - CIVIL WAR: 7
 - TOWN WAR: 3
 - NATION WAR: 10
+- INDEPENDENCE: 6
 
 ## War Schedules
 
@@ -40,9 +42,10 @@ This way, you have time to prepare for the War if you are offline, and to call f
 Wars can be declared every Thursday, Friday and Saturday between `11:00 EST` and `17:00 EST`. <br/>
 There are no online party/member requirements for a war to be declared. <br/>
 
-## Picking A Side (CIVIL WAR)
+## Picking A Side (CIVIL WAR + INDEPENDENCE WAR)
 
-A message will appear prompting you to choose a side in the civil war.
+A message will appear prompting you to choose a side in the civil war. <br/>
+You have one hour before the war (23h after the declaration) to pick a side.
 
 ## War Durations
 
@@ -51,6 +54,7 @@ Each war type lasts a different amount of time.
 - CIVIL WAR: 2h
 - TOWN WAR: 1.5h
 - NATION WAR: 2.5h
+- INDEPENDENCE: 1.5h
 
 ## Capturing Chunks
 
@@ -84,6 +88,7 @@ When a nation wins a war against you by capturing your town, you will be conquer
 ## End Of War
 
 After wartime has ended, or all cities / the capital has surrendered (Nation / Civil War), a winner will be decided.
+In Independence war, if the declaring town wins they are unconquered and freed from the occupying nation.
 The winners are the ones with most points / the ones that haven't surrendered (in case anyone has) / the ones that have captured the capital (Nation War). The winners will get to keep the towns they have conquered the homeblocks of during the War (Nation War), will absorb the town (Town War), or will become the new capital of the nation (Civil War).
 
 ## Griefing
