@@ -140,7 +140,6 @@ _- Claims must be sensible and cannot extend as lines_
 
 **7.2 Joining a town just to spawn kill residents is forbidden.**
 
-**7.3 Insiding is not allowed. This means joining a town to steal items or stealing them later is bannable. Stealing one set of armor is allowed, but emptying an entire storage isn't.**
 
 ---------
 **Nations**
