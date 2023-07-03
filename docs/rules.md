@@ -62,7 +62,7 @@ _- This includes player minimaps and XRay._
 
 
 **3.2 No temporary PvP towns/nations.**
-
+    - A PvP town is a town with less than 3 residents and little to no builds made for the purpose of t spawning to make raiding other people easier. It is strongly encouraged to have a least 10 claims, 3 residents, and builds in order to avoid getting your town deleted by staff.
 
 **3.3 Griefing during war is not allowed. Breaking through walls, exploding them, or looting chests is not considered griefing.**
 
