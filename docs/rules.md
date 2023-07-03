@@ -140,6 +140,8 @@ _- Claims must be sensible and cannot extend as lines_
 
 **7.2 Joining a town just to spawn kill residents is forbidden.**
 
+**7.3 Insiding is not allowed. This does not refer to spying on a nation or leaving them. Stealing an item or two is allowed.**
+
 
 ---------
 **Nations**
