@@ -52,6 +52,8 @@ _- This includes player minimaps and XRay._
 
 **2.4 Impersonating staff is prohibited**
 
+**2.5 Racial slurs are forbidden.**
+
 -------
 **War**
 -------
@@ -94,7 +96,7 @@ If any of these are discovered by admins the changes shall be reverted.
 **4.4 Sky/ocean bases are not allowed.**
 
 
-**4.5 You cannot tower over a wall to get into a town at any time**
+**4.5 Using boats to bypass fall damage while jumping over an enemy's wall is forbidden.**
 
 
 **4.6 Ice roads are illegal and will be removed by admins for the sake of realism.**
@@ -137,6 +139,8 @@ _- Claims must be sensible and cannot extend as lines_
 **7.1 Blocking other towns from expanding using your own claims will result in your claims being deleted**
 
 **7.2 Joining a town just to spawn kill residents is forbidden.**
+
+**7.3 Insiding is not allowed. This means joining a town to steal items or stealing them later is bannable. Stealing one set of armor is allowed, but emptying an entire storage isn't.**
 
 ---------
 **Nations**
