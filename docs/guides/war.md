@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# War guide
+# War Guide
 
 # MvndiCraft EventWar Guide
 
