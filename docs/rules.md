@@ -142,6 +142,8 @@ _- Claims must be sensible and cannot extend as lines_
 
 **7.3 Insiding is not allowed. This does not refer to spying on a nation or leaving them. Stealing an item or two is allowed.**
 
+**7.4 Building a tower to get past a wall inside someone's claims is forbidden.**
+
 
 ---------
 **Nations**
