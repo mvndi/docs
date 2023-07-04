@@ -119,7 +119,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Mvndicraft. Built with Docusaurus`,
+        copyright: `Support Mail: mvndicraftsupport@protonmail.com`,
       },
       prism: {
         theme: lightCodeTheme,
