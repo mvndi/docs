@@ -116,7 +116,7 @@ If any of these are discovered by admins the changes shall be reverted.
 
 
 ---------------
-**Ban Evasion**
+**Alts**
 ---------------
 **5.0 Using alts is not allowed under any circumstance and will lead to a permanent ban of the alt and a warning/tempban for the perpetrator's main account.**
 
