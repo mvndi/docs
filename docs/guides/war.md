@@ -83,7 +83,7 @@ If you think you can peace talk with your enemy, try using the surrender command
 
 ## Leaving CONQUERED status
 
-When a nation wins a war against you by capturing your town, you will be conquered forever. The only way to have independence is to declare a Civil War against your conquering nation.
+When a nation wins a war against you by capturing your town, you will be conquered forever. The only way to have independence is to declare a Independence War against your conquering nation.
 
 ## End Of War
 
