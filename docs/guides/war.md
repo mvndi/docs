@@ -59,6 +59,7 @@ Each war type lasts a different amount of time.
 ## Capturing Chunks
 
 If you are apart of the war, and not in neutral town, you are able to capture chunks.
+You must be on Y level 61 or above to capture chunks.
 Simply stand on the border chunks of enemy towns, until you get a chat message saying the HP of the chunk has been set to 0 or the chunk has been captured, then you can advance further into the town.
 The whole point of this is not to get points by capturing towns, but to capture the homeblock of the enemy town and knock the town out of the war (Nation / Civil War) by doing so, or ending the war (Town War).
 Each chunk has an HP of 55, and homeblocks have and HP of 150. Damage is dealt every 5 seconds and the amount is the number of enemies standing on the town's chunk.
