@@ -79,7 +79,7 @@ _- Blocking players who got in your claims by closing doors and exits **IS ALLOW
 
 **3.6 Declaring war on your ally to provide them with a 7-day war cooldown is prohibited.**
 
-**3.7 Withdrawing ducats from your nation/town bank during warmup/war/occupation is not allowed.**
+**3.7 Withdrawing ducats from your nation/town bank during occupation is not allowed.**
 
 **3.8 Joining a town right before war starts to have access to its /t spawn is forbidden starting from the second the Nation/Town is declared war on.**
 
