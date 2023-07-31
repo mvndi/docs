@@ -1,9 +1,11 @@
 import React from 'react'
-import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const styles = {
-  container: {
+  pl: {
     paddingLeft: '10%'
+  },
+  right: {
+    textAlign: 'right'
   },
 } as const;
 
@@ -22,7 +24,7 @@ const config = {
       titleTemplate: '%s – Mvndicraft'
     }
   },
-  logo: <><img src="/favicon.png" alt="favicon" width="32"/> <span style={styles.container}>Mvndicraft</span></>,
+  logo: <><img src="/favicon.png" alt="favicon" width="32"/> <span style={styles.pl}>Mvndicraft</span></>,
   chat: {
     link: 'https://discord.gg/2BP6h8Ssta',
   },
@@ -33,7 +35,7 @@ const config = {
     content: null,
   },
   footer: {
-    text: "MVNDICRAFT @ 2023     SUPPORT: admin@mvndicraft.net",
+    text: "MVNDICRAFT @ 2023"
   },
 }
 
