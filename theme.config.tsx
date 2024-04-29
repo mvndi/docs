@@ -35,7 +35,7 @@ const config = {
     content: null,
   },
   footer: {
-    text: "MVNDICRAFT @ 2023"
+    text: "MVNDICRAFT @ 2024"
   },
 }
 
