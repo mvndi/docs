@@ -19,4 +19,9 @@ const nextConfig = {
   },
 }
 
-module.exports = withNextra(nextConfig)
+module.exports = {
+  ...withNextra(nextConfig),
+  images: {
+    unoptimized: true,
+  },
+}
