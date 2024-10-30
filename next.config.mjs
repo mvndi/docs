@@ -1,7 +1,4 @@
-const withNextra = require('nextra')({
-  theme: 'nextra-theme-docs',
-  themeConfig: './theme.config.tsx',
-})
+import nextra from 'nextra';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -12,16 +9,21 @@ const nextConfig = {
     if (config.cache && !dev) {
       config.cache = Object.freeze({
         type: 'memory',
-      })
+      });
     }
     // Important: return the modified config
-    return config
+    return config;
   },
-}
+};
 
-module.exports = {
+const withNextra = nextra({
+  theme: 'nextra-theme-docs',
+  themeConfig: './theme.config.tsx',
+});
+
+export default {
   ...withNextra(nextConfig),
   images: {
     unoptimized: true,
   },
-}
+};
