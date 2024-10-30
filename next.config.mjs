@@ -2,6 +2,7 @@ import nextra from 'nextra';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
   webpack: (
     config,
     { buildId, dev, isServer, defaultLoaders, nextRuntime, webpack }
