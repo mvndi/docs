@@ -10,6 +10,7 @@ export default {
   doors: "Doors",
   brewery: "Brewery",
   waypoints: "Waypoints",
-  seasons: "Seasons"
+  seasons: "Seasons",
+  professions: "Professions"
 };
 
